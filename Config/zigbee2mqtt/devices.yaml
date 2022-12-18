@@ -1,0 +1,67 @@
+'0x00158d0003502a9a':
+  friendly_name: Гостинная
+'0x847127fffe110add':
+  friendly_name: Регулятор Кухня
+'0x60a423fffea3a583':
+  friendly_name: Ругулятор Алина Каб
+'0xb4e3f9fffe19edd9':
+  friendly_name: Розетка кухня
+'0x804b50fffe250c73':
+  friendly_name: Ругулятор Спальня
+'0x00158d00067970d3':
+  friendly_name: Датчик Удара
+'0xbc33acfffeff081e':
+  friendly_name: Датчик Алина Каб
+'0xd0cf5efffecb09a8':
+  friendly_name: Свет на кухне 2
+'0xd0cf5efffebaac4b':
+  friendly_name: Свет на кухне 1
+'0x60a423fffe3c8f99':
+  friendly_name: Датчик открытия Гостинная
+'0x60a423fffe3729d3':
+  friendly_name: Датчик открытия Кухня
+'0x60a423fffe3d40d8':
+  friendly_name: Датчик открытия Спальня
+'0x00158d00042a8849':
+  friendly_name: Свет e27
+'0x00158d0006beabd6':
+  friendly_name: Датчик ТЕСТ
+  occupancy_timeout: 60
+'0x04cf8cdf3c7c0ca4':
+  friendly_name: 4 Клавиши Aqara
+'0x00158d0001244fd5':
+  friendly_name: Розетка Спальня
+'0x00158d00042493b6':
+  friendly_name: Лампа Алина
+'0x2c1165fffe7437b0':
+  friendly_name: Регулятор Гостинная
+'0x00158d0006d3eb64':
+  friendly_name: Вход шкаф
+'0x000b57fffe8c2db6':
+  friendly_name: '0x000b57fffe8c2db6'
+'0x00158d00035b002f':
+  friendly_name: Выключатель вход коридор
+'0x00158d000310c629':
+  friendly_name: Кухня розетка поилка
+'0xa4c1383b16167f0c':
+  friendly_name: Датчик шар кухня
+'0x00158d0001dc6090':
+  friendly_name: Розетка гостинная
+'0x086bd7fffe03ba26':
+  friendly_name: '0x086bd7fffe03ba26'
+'0x00158d0007117201':
+  friendly_name: Датчик Ванна
+'0x00158d000170c677':
+  friendly_name: Выключатель Алина
+'0x00158d0003502a4d':
+  friendly_name: Температура Балкон
+'0x50325ffffe30a8de':
+  friendly_name: '0x50325ffffe30a8de'
+'0x04cf8cdf3c7711a7':
+  friendly_name: '0x04cf8cdf3c7711a7'
+'0x00158d000170399f':
+  friendly_name: Датчик спальня
+'0x00158d0003120390':
+  friendly_name: Розетка Балкон 1
+'0x00158d000311a0e3':
+  friendly_name: Розетка Балкон 2

@@ -1,0 +1,3 @@
+info  2022-07-28 20:06:34: Logging to console and directory: '/config/zigbee2mqtt_lan/log/2022-07-28.20-06-34' filename: log.txt
+info  2022-07-28 20:06:34: Starting Zigbee2MQTT version 1.26.0 (commit #unknown)
+info  2022-07-28 20:06:34: Starting zigbee-herdsman (0.14.40)
