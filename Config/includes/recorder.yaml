@@ -1,2 +1,0 @@
-  db_url: mysql://homeassistant:avax903415@core-mariadb/homeassistant?charset=utf8mb4
-  purge_keep_days: 15

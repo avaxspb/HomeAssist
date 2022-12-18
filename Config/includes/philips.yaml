@@ -1,8 +1,0 @@
-devices:
-  - platform: xiaomi_miio_philipslight
-    name: philips_light_room9
-    host: 192.168.44.24
-    token: 512005c80cccf5423fab510bdf9341cd
-    model: philips.light.ceiling
-
-    

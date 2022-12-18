@@ -1,6 +1,0 @@
-fan humidifier:
-  - platform: xiaomi_miio
-    name: Humidifier
-    host: 192.168.44.134
-    token: 62100e9abebc2e1564ec142feecd4244
-    model: zhimi.humidifier.ca1
