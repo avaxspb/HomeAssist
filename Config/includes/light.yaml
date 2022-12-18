@@ -1,0 +1,16 @@
+  - platform: xiaomi_miio
+    name: philips_light_room9
+    host: 192.168.44.24
+    token: 512005c80cccf5423fab510bdf9341cd
+    model: philips.light.ceiling
+  - platform: xiaomi_miio
+    name: kitchen_light
+    host: 192.168.44.248
+    token: 8D407AAE52A0AC294F1FAFCC2CE9E7BF
+    model: chuangmi.plug.hmi206
+    
+  - platform: xiaomi_miio_philipslight
+    name: koridor_light
+    host: 192.168.44.135
+    token: faa8453a5136550dc5024dab43af204d
+    model: philips.light.downlight

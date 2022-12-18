@@ -1,0 +1,36 @@
+
+# Configure a default setup of Home Assistant (frontend, api, etc)
+default_config:
+
+homeassistant:
+  name: My Smart Home
+  latitude: 60.029840
+  longitude: 30.249465
+  elevation: 11
+  unit_system: metric
+  time_zone: Europe/Moscow
+
+lovelace:
+  mode: yaml
+
+# Text to speech
+tts:
+  - platform: google_translate
+
+
+#Файлы конфигурации22
+group: !include groups.yaml
+automation: !include automations.yaml
+script: !include scripts.yaml
+scene: !include scenes.yaml
+recorder: !include includes/recorder.yaml
+yeelight: !include includes/yeelight.yaml
+light: !include includes/light.yaml
+history: !include history.yaml
+climate: !include includes/climate.yaml
+#fan: !include includes/humidifier.yaml
+
+
+#Вынос во внешние папки
+sensor: !include_dir_merge_list includes/sensor
+
